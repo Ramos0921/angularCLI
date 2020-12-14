@@ -1,1 +1,1 @@
-# angulareCLI
+# angularCLI
